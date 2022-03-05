@@ -1,0 +1,192 @@
+.Home {
+    overflow-y: h;
+}
+
+body{
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Crect stroke='%2314213D' stroke-width='0.7' width='1' height='1' id='s'/%3E%3Cpattern id='a' width='3' height='3' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cuse fill='%23293146' href='%23s' y='2'/%3E%3Cuse fill='%23293146' href='%23s' x='1' y='2'/%3E%3Cuse fill='%23373c4f' href='%23s' x='2' y='2'/%3E%3Cuse fill='%23373c4f' href='%23s'/%3E%3Cuse fill='%23414656' href='%23s' x='2'/%3E%3Cuse fill='%23414656' href='%23s' x='1' y='1'/%3E%3C/pattern%3E%3Cpattern id='b' width='7' height='11' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%234b4f5d'%3E%3Cuse href='%23s'/%3E%3Cuse href='%23s' y='5' /%3E%3Cuse href='%23s' x='1' y='10'/%3E%3Cuse href='%23s' x='2' y='1'/%3E%3Cuse href='%23s' x='2' y='4'/%3E%3Cuse href='%23s' x='3' y='8'/%3E%3Cuse href='%23s' x='4' y='3'/%3E%3Cuse href='%23s' x='4' y='7'/%3E%3Cuse href='%23s' x='5' y='2'/%3E%3Cuse href='%23s' x='5' y='6'/%3E%3Cuse href='%23s' x='6' y='9'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='h' width='5' height='13' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%234b4f5d'%3E%3Cuse href='%23s' y='5'/%3E%3Cuse href='%23s' y='8'/%3E%3Cuse href='%23s' x='1' y='1'/%3E%3Cuse href='%23s' x='1' y='9'/%3E%3Cuse href='%23s' x='1' y='12'/%3E%3Cuse href='%23s' x='2'/%3E%3Cuse href='%23s' x='2' y='4'/%3E%3Cuse href='%23s' x='3' y='2'/%3E%3Cuse href='%23s' x='3' y='6'/%3E%3Cuse href='%23s' x='3' y='11'/%3E%3Cuse href='%23s' x='4' y='3'/%3E%3Cuse href='%23s' x='4' y='7'/%3E%3Cuse href='%23s' x='4' y='10'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='c' width='17' height='13' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%23535763'%3E%3Cuse href='%23s' y='11'/%3E%3Cuse href='%23s' x='2' y='9'/%3E%3Cuse href='%23s' x='5' y='12'/%3E%3Cuse href='%23s' x='9' y='4'/%3E%3Cuse href='%23s' x='12' y='1'/%3E%3Cuse href='%23s' x='16' y='6'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='d' width='19' height='17' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%2314213D'%3E%3Cuse href='%23s' y='9'/%3E%3Cuse href='%23s' x='16' y='5'/%3E%3Cuse href='%23s' x='14' y='2'/%3E%3Cuse href='%23s' x='11' y='11'/%3E%3Cuse href='%23s' x='6' y='14'/%3E%3C/g%3E%3Cg fill='%235a5e69'%3E%3Cuse href='%23s' x='3' y='13'/%3E%3Cuse href='%23s' x='9' y='7'/%3E%3Cuse href='%23s' x='13' y='10'/%3E%3Cuse href='%23s' x='15' y='4'/%3E%3Cuse href='%23s' x='18' y='1'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='e' width='47' height='53' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%23FCA311'%3E%3Cuse href='%23s' x='2' y='5'/%3E%3Cuse href='%23s' x='16' y='38'/%3E%3Cuse href='%23s' x='46' y='42'/%3E%3Cuse href='%23s' x='29' y='20'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='f' width='59' height='71' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%23FCA311'%3E%3Cuse href='%23s' x='33' y='13'/%3E%3Cuse href='%23s' x='27' y='54'/%3E%3Cuse href='%23s' x='55' y='55'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='g' width='139' height='97' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%23FCA311'%3E%3Cuse href='%23s' x='11' y='8'/%3E%3Cuse href='%23s' x='51' y='13'/%3E%3Cuse href='%23s' x='17' y='73'/%3E%3Cuse href='%23s' x='99' y='57'/%3E%3C/g%3E%3C/pattern%3E%3C/defs%3E%3Crect fill='url(%23a)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23b)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23h)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23c)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23d)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23e)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23f)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23g)' width='100%25' height='100%25'/%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main-photo-container{
+    background-image: url('Expatia.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 50%;
+    background-position-x: 50%;
+}
+
+#main-bttn-container{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    top: 70vh;
+}
+
+#main-bttn-container button{
+    margin: 30px;
+    padding: 20px 60px;
+    font-size: 30px;
+    background-color: #fca311;
+    color: #fff;
+    border: none;
+}
+
+#main-bttn-container button:hover{
+    cursor: pointer;
+    background-color: #eb9100;
+}
+
+#popular-communities{
+    background-color: #213663;
+    padding: 0.3in;
+    margin: 50px;
+}
+
+#popular-communities h2{
+    color: #fff;
+}
+
+#popular-communities-container{
+    margin: 50px 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.community{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    background-color: #fff;
+}
+
+.community-image-container img{
+    width: 100%;
+    height: 300px;
+}
+
+.community-name{
+    color: #fca311;
+    padding: 10px;
+}
+
+.community-description{
+    padding: 10px;
+}
+
+.community-tags-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px 0 15px;
+}
+
+.community-tags-container .tag{
+    padding: 10px;
+    background-color: #fca311;
+    color: #fff;
+    margin: 5px 10px;
+}
+
+#join, #join-community{
+    background-color: rgba(255, 255, 255, 0.8);
+    height: 70vh;
+    width: 70vw;
+    overflow-y: scroll;
+    margin: 0 auto;
+    position: absolute;
+    top:15vh;
+    left: 15vw;
+    border-radius: 15px;
+}
+
+#join h3{
+    padding:20px;
+}
+
+#country-dropdown{
+    background-color: rgba(255, 255, 255, 0.8);
+    height: 100%;
+    width: 70vw;
+    margin: 0 auto;
+    overflow-y: scroll;
+}
+
+#country-dropdown div{
+    padding: 15px 30px;
+    text-align: center;
+}
+
+#country-dropdown div:hover{
+    background-color: #213663;
+    color: #fff;
+    cursor: pointer;
+}
+
+#country-dropdown div:focus, #country-dropdown div:active{
+    background-color: #213663;
+    color: #fff;
+}
+
+
+#join-container{
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#join-community-container{
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /*display: none;*/
+}
+
+.commty{
+    display: flex;
+    justify-content: center;
+    margin: 20px
+}
+
+.commty img{
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.commty h2{
+    color: #000;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin: 20px;
+}
+
+
+.commty h2:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.comm-list {
+    position: absolute;
+    top: 9vh;
+    left: 0;
+    background-color: white;
+}

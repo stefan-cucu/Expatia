@@ -1,0 +1,33 @@
+header{
+    padding: 0;
+    margin: 0;
+    background-color: #330033;
+    position:absolute;
+    top:0;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    color: #fff;
+}
+
+header .fa-solid{
+    margin: 20px;
+    font-size: 25px;
+    color: #fff;
+}
+
+header .fa-solid:hover{
+    cursor: pointer;
+    color: #fca311;
+}
+
+header img{
+    height: 50px;
+}

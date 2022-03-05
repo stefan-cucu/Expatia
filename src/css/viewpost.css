@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+.ViewPost {
+    width: 100vw;
+    height: 100vh;
+    background-color: #14213D;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Crect stroke='%2314213D' stroke-width='0.7' width='1' height='1' id='s'/%3E%3Cpattern id='a' width='3' height='3' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cuse fill='%23293146' href='%23s' y='2'/%3E%3Cuse fill='%23293146' href='%23s' x='1' y='2'/%3E%3Cuse fill='%23373c4f' href='%23s' x='2' y='2'/%3E%3Cuse fill='%23373c4f' href='%23s'/%3E%3Cuse fill='%23414656' href='%23s' x='2'/%3E%3Cuse fill='%23414656' href='%23s' x='1' y='1'/%3E%3C/pattern%3E%3Cpattern id='b' width='7' height='11' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%234b4f5d'%3E%3Cuse href='%23s'/%3E%3Cuse href='%23s' y='5' /%3E%3Cuse href='%23s' x='1' y='10'/%3E%3Cuse href='%23s' x='2' y='1'/%3E%3Cuse href='%23s' x='2' y='4'/%3E%3Cuse href='%23s' x='3' y='8'/%3E%3Cuse href='%23s' x='4' y='3'/%3E%3Cuse href='%23s' x='4' y='7'/%3E%3Cuse href='%23s' x='5' y='2'/%3E%3Cuse href='%23s' x='5' y='6'/%3E%3Cuse href='%23s' x='6' y='9'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='h' width='5' height='13' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%234b4f5d'%3E%3Cuse href='%23s' y='5'/%3E%3Cuse href='%23s' y='8'/%3E%3Cuse href='%23s' x='1' y='1'/%3E%3Cuse href='%23s' x='1' y='9'/%3E%3Cuse href='%23s' x='1' y='12'/%3E%3Cuse href='%23s' x='2'/%3E%3Cuse href='%23s' x='2' y='4'/%3E%3Cuse href='%23s' x='3' y='2'/%3E%3Cuse href='%23s' x='3' y='6'/%3E%3Cuse href='%23s' x='3' y='11'/%3E%3Cuse href='%23s' x='4' y='3'/%3E%3Cuse href='%23s' x='4' y='7'/%3E%3Cuse href='%23s' x='4' y='10'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='c' width='17' height='13' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%23535763'%3E%3Cuse href='%23s' y='11'/%3E%3Cuse href='%23s' x='2' y='9'/%3E%3Cuse href='%23s' x='5' y='12'/%3E%3Cuse href='%23s' x='9' y='4'/%3E%3Cuse href='%23s' x='12' y='1'/%3E%3Cuse href='%23s' x='16' y='6'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='d' width='19' height='17' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%2314213D'%3E%3Cuse href='%23s' y='9'/%3E%3Cuse href='%23s' x='16' y='5'/%3E%3Cuse href='%23s' x='14' y='2'/%3E%3Cuse href='%23s' x='11' y='11'/%3E%3Cuse href='%23s' x='6' y='14'/%3E%3C/g%3E%3Cg fill='%235a5e69'%3E%3Cuse href='%23s' x='3' y='13'/%3E%3Cuse href='%23s' x='9' y='7'/%3E%3Cuse href='%23s' x='13' y='10'/%3E%3Cuse href='%23s' x='15' y='4'/%3E%3Cuse href='%23s' x='18' y='1'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='e' width='47' height='53' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%23FCA311'%3E%3Cuse href='%23s' x='2' y='5'/%3E%3Cuse href='%23s' x='16' y='38'/%3E%3Cuse href='%23s' x='46' y='42'/%3E%3Cuse href='%23s' x='29' y='20'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='f' width='59' height='71' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%23FCA311'%3E%3Cuse href='%23s' x='33' y='13'/%3E%3Cuse href='%23s' x='27' y='54'/%3E%3Cuse href='%23s' x='55' y='55'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='g' width='139' height='97' patternUnits='userSpaceOnUse' patternTransform='rotate(46 1000 750) scale(30) translate(-966.67 -725)'%3E%3Cg fill='%23FCA311'%3E%3Cuse href='%23s' x='11' y='8'/%3E%3Cuse href='%23s' x='51' y='13'/%3E%3Cuse href='%23s' x='17' y='73'/%3E%3Cuse href='%23s' x='99' y='57'/%3E%3C/g%3E%3C/pattern%3E%3C/defs%3E%3Crect fill='url(%23a)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23b)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23h)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23c)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23d)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23e)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23f)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23g)' width='100%25' height='100%25'/%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.viewpost-container {
+    width: 35vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    background-color: #213663;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset,
+    rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    overflow: hidden;
+    position: relative;
+    max-width: 100%;
+    min-height: 480px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-y: scroll;
+    
+}
+
+.ViewPost .text {
+    background-color: #eee;
+    border: none;
+    padding: 12px 15px;
+    margin: 8px 0;
+    width: 80%;
+    
+}
+
+.create-comment {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+    
+}
+
+.ViewPost .text-input {
+    background-color: #eee;
+    border: none;
+    padding: 12px 15px;
+    width: 25vw;
+    margin: auto;
+    
+}
+
+.comment-area {
+    height: 10vh;
+    margin-bottom: 1vh;
+    
+}
+
+.ViewPost button {
+    border-radius: 20px;
+    border: 1px solid #fca311;
+    background-color: #fca311;
+    color: #000;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
+
+.line {
+    width: 100%;
+    height: 2px;
+    border-bottom: 1px solid #fca311;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: row;
+    width: 35vw;
+    color: white;
+    border-bottom: 1px solid #fca311;
+    border-top: 1px solid #fca311;
+}
+
+.Viewpost .post-container{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#map {
+    margin: auto;
+}
+
+.another-container {
+    width: 90%;
+    text-align: center;
+}
+
+
+.ViewPost button:active {
+    transform: scale(0.95);
+}
+
+.ViewPost button:focus {
+    outline: none;
+    
+}
+
+.ViewPost button.ghost {
+    background-color: transparent;
+    border-color: #ffffff;
+    color:#fca311;
+}
+
+.comment {
+    margin-top: 1vh;
+    border: 1px solid #fca311;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+
+.upvote-sys {
+    border-right: 1px solid #fca311;
+    width: 10%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.comment-box {
+    width: 100%;
+}
+
+#thumbsUp {
+    width: 80%;
+}
+
+.username {
+    width: 100%;
+    border-bottom: 1px solid #fca311;
+}
